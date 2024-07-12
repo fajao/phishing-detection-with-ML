@@ -46,3 +46,5 @@ External/Whois features:
 ```bash
 curl -X POST http://127.0.0.1:5000/predict -H "Content-Type: application/json" -d '{"url":"http://example.com"}'
 ```
+
+[1]: https://mcfajao.com/posts/Phishing_URL_Detection_with_ML/
